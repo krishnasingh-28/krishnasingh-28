@@ -1,27 +1,28 @@
-## Hi there I'm Krishna👋
-Welcome to my GitHub profile! I'm passionate about Data Science and Machine Learninig.
+<div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/krishnasingh-28/krishnasingh-28/output/github-contribution-grid-snake.svg" />
+</div> -->
 
-### 🚀 About Me
-- 🔭 Currently learning **Data Science** and **Machine Learning**.
-- 🌱 Continuously sharping my skills in analyzing the data and implementing machine learning algorithms.
-- 📫 How to reach me: [krishnasingh8404@gmail.com](mailto:krishnasingh8404@gmail.com).
-- ⚡ Check out my [leetcode](https://leetcode.com/u/krishnasingh_28/).
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
+  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
+  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 3" height="200" width="200" /></a>
+ </p>
+<p align="center">
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/krishnasingh_28?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" />  
+</p>
 
-### 📱 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/krishna-singh28) 
-<!--
+<br/>
+<h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=krishnasingh-28&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=krishnasingh-28&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasingh-28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
+<br/>
 
-**krishnasingh-28/krishnasingh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>

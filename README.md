@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
   <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
- <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 3" height="200" width="200" /></a>
+ <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="LeetCode Badge 3" height="200" width="200" /></a>
  </p>
 <p align="center">
   <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/krishnasingh_28?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" />  

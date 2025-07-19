@@ -7,7 +7,7 @@
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
-  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="LeetCode Badge 2" height="200" width="200" /></a>
+  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
  <a href="https://leetcode.com/krishnasingh_28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge 3" height="200" width="200" /></a>
  </p>
 <p align="center">
